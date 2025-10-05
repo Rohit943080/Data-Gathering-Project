@@ -5,8 +5,8 @@ Collecting the data from different source into Dataframe object
 
 ## 🚀 Project Overview
 The project covers five major data gathering techniques:
-1. **CSV Files** — Loading data using pd.read_csv() and exploring differnt types of paramters provided by the function .
-2. **Excel Files** — Reading multiple sheets .
+1. **CSV Files** — Loading data using `pd.read_csv()` and exploring differnt types of paramters provided by the function .
+2. **Excel Files** — Loading data using `pd.read_excel()` and Reading multiple sheets .
 3. **JSON Files** — Parsing and normalizing nested JSON structures into tabular format.
 4. **APIs** — Fetching real-time data using `requests` and converting it to a DataFrame.
 5. **Web Scraping** — Extracting data from websites using `BeautifulSoup` and `requests`.

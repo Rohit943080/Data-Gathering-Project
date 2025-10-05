@@ -1,7 +1,7 @@
 # Data-Gathering-Project
 Collecting the data from different source into Dataframe object
 
-### As a Data analyst the first step you have to do is to gather data from multiple sources . I have created multiple notebooks each  representing different sources of data. This repository can act as reference for anyone who wants to collect data from different sources. I have also provided the differnt types( eg-.csv, .json, .xlsx) of dataset which you can use for practice.
+####  As a Data analyst the first step you have to do is to gather data from multiple sources . I have created multiple notebooks each  representing different sources of data. This repository can act as reference for anyone who wants to collect data from different sources. I have also provided the differnt types( eg-.csv, .json, .xlsx) of dataset which you can use for practice.
 
 ## 🚀 Project Overview
 The project covers five major data gathering techniques:
